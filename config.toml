@@ -1,0 +1,49 @@
+title = "Toul Cranmer"
+baseURL = "http://toul.io/"
+publishDir = "docs"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "llcranmer"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Computer Science & Geophysics major seeking Intern/Full-Time position"
+    author = "Toul Cranmer"
+    description = "Full-stack web developer based in  Houston, Texas"
+    logoBig = "/images/Toul-logo.png"
+    logoSmall = "/images/Toul-logo.png"
+    favicon = ""
+    opengraphImage = "/images/Toul-logo.png"
+    # twitter = "http://toul.io/"
+    # linkedin = "http://toul.io/"
+    github = "llcranmer"
+    email = "touldeguiacranmer@gmail.com"
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Fun"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4

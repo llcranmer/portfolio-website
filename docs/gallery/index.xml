@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Toul Cranmer</title>
+    <link>http://toul.io/gallery/</link>
+    <description>Recent content in Galleries on Toul Cranmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Mon, 15 May 2017 22:25:16 -0700</lastBuildDate>
+    
+	<atom:link href="http://toul.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GYMDR Mobile App</title>
+      <link>http://toul.io/gallery/gymdr/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/gymdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang Web App</title>
+      <link>http://toul.io/gallery/golangwebapp/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/golangwebapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang Microservice</title>
+      <link>http://toul.io/gallery/microserviceapp/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/microserviceapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Machine Learning Sentiment Analysis Web App</title>
+      <link>http://toul.io/gallery/ml/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toul Professional Website</title>
+      <link>http://toul.io/gallery/toulio/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/toulio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mint Programmer</title>
+      <link>http://toul.io/gallery/mintprogrammer/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>http://toul.io/gallery/mintprogrammer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
