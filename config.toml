@@ -11,9 +11,9 @@ disqusShortname = "llcranmer"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Computer Science & Geophysics major seeking Intern/Full-Time position"
+    tagline = "Seeking Fall 2018 Co-op or Spring 2019 Full-time Position"
     author = "Toul Cranmer"
-    description = "Full-stack web developer based in  Houston, Texas"
+    description = "Full-stack Cloub web developer based in  Houston, Texas"
     logoBig = "/images/Toul-logo.png"
     logoSmall = "/images/Toul-logo.png"
     favicon = ""
